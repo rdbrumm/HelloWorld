@@ -4,5 +4,6 @@ public class Demo {
         System.out.println("Hello from PACCAR!");
         System.out.println("What it do baybeee!");
         System.out.println("Booyah!");
+        System.out.println("Fourth line of output!");
     }
 }
